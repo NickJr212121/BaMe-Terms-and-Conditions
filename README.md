@@ -1,6 +1,6 @@
 # BAME TERMS AND CONDITIONS & END USER LICENSE AGREEMENT
 
-**Last Updated: December 4, 2025**
+**Last Updated: December 11, 2025**
 
 Please read these Terms and Conditions ("Terms", "T&C") and the End User License Agreement ("EULA") carefully before using the mobile game application ("The Game") operated by BaMe ("us", "we", or "our").
 
