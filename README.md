@@ -28,8 +28,9 @@ The Game may include the option to purchase virtual currency, items, or services
 
 **2.2 NO REFUND POLICY**
 
-ALL PURCHASES OF VIRTUAL GOODS ARE FINAL AND NON-REFUNDABLE.
-You acknowledge and agree that BaMe is not required to provide a refund for any reason, including but not limited to, the termination of your account, disruption of The Game service, or loss of Virtual Goods due to tampering, cheating, or any other cause.
+ALL PURCHASES OF VIRTUAL GOODS ARE FINAL, NON-REFUNDABLE, AND NON-RETURNABLE. You acknowledge and agree that BaMe does not offer refunds for any reason, except to the extent that a refund is expressly permitted and processed by Google Play under its applicable policies.
+
+If Google Play does not authorize or complete a refund, BaMe has no obligation to provide one. This includes, without limitation, situations involving account termination, service interruptions, accidental purchases, dissatisfaction with Virtual Goods, or loss of Virtual Goods due to tampering, unauthorized access, or any other cause.
 
 **2.3 Pricing and Payment**
 
