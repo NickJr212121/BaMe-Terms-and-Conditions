@@ -26,7 +26,7 @@ d) Attempt to gain unauthorized access to any part of The Game or its related sy
 
 The Game may include the option to purchase virtual currency, items, or services ("Virtual Goods"). Virtual Goods are licensed, not sold, to you and remain the property of BaMe. Virtual Goods have no monetary value and cannot be redeemed for cash or other property.
 
-**2.2 NO REFUND POLICY**
+**2.2 REFUND POLICY**
 
 ALL PURCHASES OF VIRTUAL GOODS ARE FINAL, NON-REFUNDABLE, AND NON-RETURNABLE. You acknowledge and agree that BaMe does not offer refunds for any reason, except to the extent that a refund is expressly permitted and processed by Google Play under its applicable policies.
 
